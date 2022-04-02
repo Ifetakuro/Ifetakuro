@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @fisayotakuro
-- 👀 I’m interested in front end web development 
-- 🌱 I’m currently learning HTML, CSS and JavaScript 
+- 👋 Hi, I’m @ife
+- 👀 I’m an aspiring software developer 
+- 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on web development projects 
-- 📫 How to reach me takurofisayo@gmail.com
 
 <!---
 Ifetakuro/Ifetakuro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
